@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Parcial02_Grupo06-3.sln"
+    "dotnet.defaultSolution": "Parcial02_Grupo06.sln"
 }
