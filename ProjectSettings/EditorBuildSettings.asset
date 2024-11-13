@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Laberinto.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bienvenido.unity
+    guid: 7c13529e304be2e4eab6c4a92a11e23b
+  - enabled: 1
+    path: Assets/Scenes/TreeABB.unity
+    guid: 7492cc05c193fd048ad2d976ac746faa
+  - enabled: 1
+    path: Assets/Scenes/Grafos.unity
+    guid: 00d502243d938494fbed1fc4e250abe8
+  - enabled: 1
+    path: Assets/Scenes/TreeAVL.unity
+    guid: 55fd693d62774a343953d5d2fcee69a6
+  - enabled: 1
+    path: Assets/Scenes/Conjunto TDA.unity
+    guid: 3347d61023895994199b2c88eb82a522
+  m_configObjects: {}
