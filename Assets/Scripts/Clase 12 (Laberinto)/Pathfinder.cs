@@ -91,11 +91,11 @@ namespace Exercise5
             {
                 if (connection.IsEqual(exploredConnections[i]) || connection.IsReverse(exploredConnections[i]))
                 {
-                    return false;
+                    return true;
                 }
             }
 
-            return true;
+            return false;
         }
 
         Path CalculateShortestPath(List<Path> paths)
